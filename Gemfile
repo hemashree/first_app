@@ -7,6 +7,7 @@ gem 'rails', '4.1.6'
 
 gem 'pry'
 gem 'pg', '0.15.1'
+gem 'bootstrap-sass', '2.3.2.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
